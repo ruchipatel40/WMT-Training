@@ -1,1 +1,8 @@
-Webapp/node_modules
+/node_modules
+/Bootstrap_example
+Bootstrap_template
+css
+css_grid
+Es6
+Javascript
+JQuery
